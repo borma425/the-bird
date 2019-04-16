@@ -4,7 +4,7 @@ git clone https://github.com/yehia-hacker/the-bird
 
 cd the-bird
 
-python the-bird.py
+python2 the-bird.py
 
 --------------------------------------------------
 ^_*
